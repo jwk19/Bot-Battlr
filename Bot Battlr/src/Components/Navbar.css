@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #2f4f4f; /* Dark Slate Gray */
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  .navbar h1 {
+    margin: 0;
+    color: #d4af37; /* Gold-ish color */
+    font-family: 'Staatliches', cursive;
+    font-size: 36px;
+  }
